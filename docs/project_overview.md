@@ -6,10 +6,9 @@ sidebar_position: 2
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="/img/organization.jpg" width="500"/>
-</p>
+</div>
 
-
-TidyScreen has been developed with the purpose of providing a structured platform for the execution of small, medium and large scale virtual drug screening campaings. 
+TidyScreen has been developed with the purpose of providing a structured platform for the execution of small, medium and large scale virtual drug screening campaigns. 
 
